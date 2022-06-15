@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-1am/)
 
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Dennis and I am currently working towards a Degree in Computer Science and Business @ Lehigh University!  
 
 <img align="right" alt="img" src="https://c4.wallpaperflare.com/wallpaper/294/645/286/anime-city-building-women-umbrella-hd-wallpaper-preview.jpg" width="50%" height="auto" />
 

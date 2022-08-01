@@ -16,7 +16,7 @@ Welcome to my Github page! I am Dennis and I am currently working towards a Degr
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding everyday trying but easier during the semester (T-T)
+- Coding everyday trying but easier during the semester
 - Exercising 4 days a week
 - Improving my CV
 

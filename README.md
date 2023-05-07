@@ -10,9 +10,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-1am&card_width=500&layout=compact&show_icons=true&theme=blueberry"/>
 </div>
 
-<h1> I am currently learning..... </h1>
+<h2> I am currently learning..... </h2>
 <div>
-<img width="125" height="70" src="https://www.w3schools.com/aws/images/awslogo.png" />
-<img width="125" height="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img width="125" height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+<img width="75" height="50" src="https://www.w3schools.com/aws/images/awslogo.png" />
+<img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img width="75" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 </div>

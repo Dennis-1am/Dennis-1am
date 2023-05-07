@@ -11,7 +11,7 @@
   <li>⚡ Fun fact:Hacker Rank sparked my initial interest in Computer Science</li>
 </ol>
 
-<div align="left" height="100">
+<div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=177EF7&multiline=true&width=435&height=100&lines=Currently 😀😀😀😀;Learning ........" alt="Typing SVG" /></a>
 <img width="125" height="70" src="https://www.w3schools.com/aws/images/awslogo.png" />
 <img width="125" height="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />

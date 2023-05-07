@@ -1,11 +1,9 @@
-<h1 align=center > Hey My Name is Dennis Lam !<h1>
- <p align=center>
- <img src="https://media.tenor.com/u66L8ea3EhMAAAAd/kid-goku-eating.gif" alt="Sublime's custom image" width=300 height=250 style="border-radius:10%"/>
- </p>
+
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Dennis-1am&theme=blueberry-duo&border_radius=5&card_width=500" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dennis-1am&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&card_width=500" />
+
  
-<p align="center">
- <a href="https://github.com/Dennis-1am">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=Dennis-1am&theme=blueberry-duo&border_radius=5&card_width=500" >
-<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dennis-1am&theme=blueberry-duo&border_radius=5&card_width=500)](https://git.io/streak-stats) -->
- </a>
- </p>
+
+<img src="https://media.tenor.com/u66L8ea3EhMAAAAd/kid-goku-eating.gif" style="border-radius: 50%;" width="400" alt="Image">
+
+<h1 align="right" > Hey There My Name is Dennis! </h1>

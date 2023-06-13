@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=177EF7&multiline=true&width=500&height=100&lines=Hey There my Name is Dennis;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=177EF7&multiline=true&width=500&height=100&lines=Hey There MY Name Is Dennis;" alt="Typing SVG" /></a>
 </div>
 
 
@@ -24,6 +24,3 @@
 </div>
 
 <img height="30" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png" />
-
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

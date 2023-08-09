@@ -12,7 +12,9 @@
 <div align="center">
 <img border-radius="10" width="300" src="https://media.tenor.com/D55R-SuFKGgAAAAC/kids-goku-peace.gif" />
 <h3> bio 🦖 </h3>
-<p> I am a SWE and I am interested in learning about cloud technologies, the reason I am in Comp Sci is due to Hacker Rank solving those problems were the initial spark that lit up my passion for coding. I have experiences working in both large and small companies I am most familiar with Agile methods.<p>
+  <div>
+    <p> I am a SWE and I am interested in learning about cloud technologies, the reason I am in Comp Sci is due to Hacker Rank solving   those problems were the initial spark to my coding journey.</p>
+  </div>
 </div>
 
 <div align="center">
